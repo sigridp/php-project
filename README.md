@@ -1,5 +1,5 @@
-# php-school-project
-my final school-project with php and laravel.
+# php-project
+my latest project with php and laravel.
 
 the assignment was:
 - show news-items on the homepage with an ajax call.
